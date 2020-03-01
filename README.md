@@ -3,7 +3,7 @@
   
 This is a simple script to run Burp Scans using Burp Rest API introduced in [Burp 2.x](https://portswigger.net/blog/burps-new-rest-api) and upload the scan results to an ELK once the scan is finished.   
 
-ELK provides actionable Analytics for the vulnerability scans. ELK can also used Kibana to create visualisations for Burp scans.
+ELK provides actionable Analytics for the vulnerability scans. ELK can also be used to create Kibana visualisations for Burp scans.
    
 ## How to Use the Script:  
 ### Create an ELK Index:
