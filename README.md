@@ -60,4 +60,5 @@ foo@bar:~$  python Burp.py 'http://scanme.url/'
 ## TODO
 - [ ] Add API Token Authentication for Burp API
 - [ ] Add following Burp Scan API Options. (Scope, scan_configurations, application_logins)
+- [ ] Add Kibana visualization
 - [ ] Add Notification Options(Email, Slack)
